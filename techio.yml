@@ -10,7 +10,7 @@ plan:
     statement: markdowns/countpath.md
   - title: Can reach food?!
     statement: markdowns/canreachfood.md
-  - title: Exercise: Find path!
+  - title: Exercise - Find path!
     statement: markdowns/findpath.md
 
 # Settings for your programming projects and the associated Docker images
