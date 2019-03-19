@@ -1,12 +1,17 @@
-title : Java Maven Project
+title : Recursive Backtracking (Lecture companion) 
 
 # Table of content
 plan:
-  - title: Welcome # Set the page title (only displayed if your contribution has several pages)
-    statement: markdowns/welcome.md # Set the file path to the page content
-#  - title: Another Page
-#    statement: markdowns/another-page.md
-
+  - title: Welcome 
+    statement: markdowns/welcome.md 
+  - title: Review 
+    statement: markdowns/recursion.md 
+  - title: Counting paths!
+    statement: markdowns/countpath.md
+  - title: Can reach food?!
+    statement: markdowns/canreachfood.md
+  - title: Exercise: Find path!
+    statement: markdowns/findpath.md
 
 # Settings for your programming projects and the associated Docker images
 projects:
@@ -17,3 +22,4 @@ projects:
     # @[Code Editor Title]({"stubs": ["EditorFile1.java", "EditorFile2.java", ...], "command": "MyJUnitClass#myMethod"})
     # More details here: https://github.com/TechDotIO/java-maven3-junit4-runner
     runner: techio/java-maven3-junit4-runner:1.1.3-java-8
+

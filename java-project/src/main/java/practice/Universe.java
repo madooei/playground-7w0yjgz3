@@ -1,5 +1,4 @@
-// { autofold
-package com.yourself;
+package practice;// { autofold
 
 import java.util.Arrays;
 
