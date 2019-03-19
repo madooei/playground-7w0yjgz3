@@ -6,7 +6,7 @@ In this lecture, we will:
 2. Solve two programming exercises using recursion.
 3. Use those exercises to introduce the idea of _backtracking_.
 
-There is an extra exercises at the end which we will leave as homework to you (please don't work on it during the lecture unless you are really bored :).
+There is an extra exercise at the end which we will leave as homework to you (please don't work on it during the lecture unless you are really bored :).
 
 ------
 
